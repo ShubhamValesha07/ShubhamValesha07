@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### Hi, I'm Shubham!
+• Computer Engineer sharing about my journey and learnings in tech<br/>
+• Studied [Computer Engineering at n. g. patel polytechnic, India<br/>
+• Currently learning about data science<br/>
+ヘーー
+GitHub stats
+from https://github.com/ShubhamValesha07/github-readme-stats -
+[ShubhamValesha07's github stats] (https:/github-readme-stats.vercel.app/api?username=xsol05&count private=true&show icons=true&theme=radical&hide rank=false)l (https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ShubhamValesha07/ShubhamValesha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
