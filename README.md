@@ -5,6 +5,9 @@
 - Computer Engineer sharing about my journey and learnings in tech<br/>
 - Studied Computer Engineering at n. g. patel polytechnic, India<br/>
 - Currently learning about data science<br/>
+---------------------------------------------------------------------------------------
+[![Shubham's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=shubhamvalesha07&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/shubhamvalesha07/github-readme-stats#gh-dark-mode-only)
+[![Shubham's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=shubhamvalesha07&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/shubhamvalesha07/github-readme-stats#gh-light-mode-only)
 
 <!--
 **ShubhamValesha07/ShubhamValesha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
