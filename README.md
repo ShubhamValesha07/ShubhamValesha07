@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on Data Science
 - 📫 To reach me: [shubham.valesha](https://www.instagram.com/shubham.valesha/)
-• Computer Engineer sharing about my journey and learnings in tech<br/>
-• Studied [Computer Engineering at n. g. patel polytechnic, India<br/>
-• Currently learning about data science<br/>
+- Computer Engineer sharing about my journey and learnings in tech<br/>
+- Studied [Computer Engineering at n. g. patel polytechnic, India<br/>
+- Currently learning about data science<br/>
 ヘーー
 <!--
 **ShubhamValesha07/ShubhamValesha07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
