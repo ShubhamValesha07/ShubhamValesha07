@@ -1,6 +1,4 @@
-### Hi there 👋
-
-### Hi, I'm Shubham!
+### Hi, I'm Shubham👋!
 
 - 🔭 I’m currently working on Data Science
 - 📫 To reach me: [shubham.valesha](https://www.instagram.com/shubham.valesha/)
